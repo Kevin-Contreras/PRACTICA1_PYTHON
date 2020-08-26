@@ -1,0 +1,43 @@
+[
+  {
+      "nombre": "KEVIN",
+      "edad": 45,
+      "activo": true,
+      "promedio": 56.456
+  },
+  {
+      "nombre": "LOPEZ",
+      "edad": 20,
+      "activo": false,
+      "promedio": 10
+  },
+  {
+    "nombre": "LOPEZ",
+    "edad": 20,
+    "activo": false,
+    "promedio": 10
+},
+{
+  "nombre": "LOPEZ",
+  "edad": 20,
+  "activo": false,
+  "promedio": 10
+},
+{
+  "nombre": "LOPEZ",
+  "edad": 20,
+  "activo": false,
+  "promedio": 10
+},
+{
+  "nombre": "LOPEZ",
+  "edad": 20,
+  "activo": false,
+  "promedio": 10
+},{
+  "nombre": "LOPEZ",
+  "edad": 20,
+  "activo": false,
+  "promedio": 10
+}
+]
