@@ -20,7 +20,7 @@
     <li>SELECCIONAR nombre, edad DONDE promedio = 14.45</li>
     <li>MAXIMO edad</li>
     <li>MAXIMO promedio</li>
-    <li>MINIMO edad/</li>
+    <li>MINIMO edad</li>
     <li>MINIMO promedio</li>
     <li>SUMA edad</li>
     <li>SUMA promedio</li>
@@ -43,7 +43,7 @@
   <p>Este comando mostrara la edad maxima de todos los registros que sean ingresado a la memoria</p>
   <li>MAXIMO promedio</li>
   <p>Este comando mostrara la edad maxima de todos los registros que sean ingresado a la memoria</p>
-  <li>MINIMO edad/</li>
+  <li>MINIMO edad</li>
   <p>Este comando mostrara la edad minima de todos los registros que sean ingresado a la memoria</p>
   <li>MINIMO promedio</li>
   <p>Este comando mostrara el promedio minima de todos los registros que sean ingresado a la memoria</p>
@@ -58,4 +58,3 @@
   <li>SALIR</li>
   <p>Este comando permite salir de la aplicacion</p>
 </ul>
-
