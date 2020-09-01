@@ -15,7 +15,7 @@
   <h2>COMANDOS DEL PROGRAMA</h2>
   <ul>
     <li>CARGAR</li>
-    <li>SELECCIONAR nombre, edad, promedio, activo DONDE nombre ="nombre"</li>
+    <li>SELECCIONAR nombre, edad, promedio, activo DONDE nombre = "nombre"</li>
     <li>SELECCIONAR *</li>
     <li>SELECCIONAR nombre, edad DONDE promedio = 14.45</li>
     <li>MAXIMO edad</li>
