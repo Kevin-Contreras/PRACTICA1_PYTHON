@@ -39,7 +39,9 @@
   <p>Este comando selecciona todos los registros de los archivos y los muestra en consola</p>
   <li>SELECCIONAR nombre, edad DONDE promedio = 14.45</li>
   <p>Este comando realiza una busque en los archivos dandole como parametro el promedio donde despues del signo = debe de ir seguido un espacio luego el promedio  </p>
+  ```bash
   <li>MAXIMO edad</li>
+    ```
   <p>Este comando mostrara la edad maxima de todos los registros que sean ingresado a la memoria</p>
   <li>MAXIMO promedio</li>
   <p>Este comando mostrara la edad maxima de todos los registros que sean ingresado a la memoria</p>
